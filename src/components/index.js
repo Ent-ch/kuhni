@@ -521,36 +521,6 @@ export default () =>   <div>
     <ul className="uk-switcher-nav uk-flex-center uk-subnav uk-subnav-pill uk-margin-medium-bottom" data-uk-switcher="animation: uk-animation-slide-left-medium, uk-animation-slide-right-medium">
       <li><a href="#">Кухни</a></li>
     </ul>
-    <ul className="uk-switcher">
-      <li>
-        <div className="projects-grid uk-grid uk-grid-small uk-child-width-1-5@l uk-child-width-1-5@m uk-child-width-1-3@s  uk-child-width-1-2" data-uk-grid>
-          <div><img src="/assets/images/projects/1.jpg" alt="project-1" /></div>
-          <div><img src="/assets/images/projects/2.jpg" alt="project-2" /></div>
-          <div><img src="/assets/images/projects/3.jpg" alt="project-3" /></div>
-          <div><img src="/assets/images/projects/4.jpg" alt="project-4" /></div>
-          <div><img src="/assets/images/projects/5.jpg" alt="project-5" /></div>
-          <div><img src="/assets/images/projects/6.jpg" alt="project-6" /></div>
-          <div><img src="/assets/images/projects/7.jpg" alt="project-7" /></div>
-          <div><img src="/assets/images/projects/8.jpg" alt="project-8" /></div>
-          <div><img src="/assets/images/projects/9.jpg" alt="project-9" /></div>
-          <div><img src="/assets/images/projects/10.jpg" alt="project-10" /></div>
-        </div>
-      </li>
-      <li>
-        <div className="projects-grid uk-grid uk-grid-small uk-child-width-1-5@l uk-child-width-1-5@m uk-child-width-1-3@s  uk-child-width-1-2" data-uk-grid>
-          <div><img src="/assets/images/projects/1.jpg" alt="project-1" /></div>
-          <div><img src="/assets/images/projects/2.jpg" alt="project-2" /></div>
-          <div><img src="/assets/images/projects/3.jpg" alt="project-3" /></div>
-          <div><img src="/assets/images/projects/4.jpg" alt="project-4" /></div>
-          <div><img src="/assets/images/projects/5.jpg" alt="project-5" /></div>
-          <div><img src="/assets/images/projects/6.jpg" alt="project-6" /></div>
-          <div><img src="/assets/images/projects/7.jpg" alt="project-7" /></div>
-          <div><img src="/assets/images/projects/8.jpg" alt="project-8" /></div>
-          <div><img src="/assets/images/projects/9.jpg" alt="project-9" /></div>
-          <div><img src="/assets/images/projects/10.jpg" alt="project-10" /></div>
-        </div>
-      </li>
-    </ul>
   </section>
   <section className="total-price" id="total-price">
     <div className="uk-section-large uk-container">
@@ -596,76 +566,4 @@ export default () =>   <div>
       <div className="footer-page__copy"><span>Сайт защищен от копирования законом об авторском праве. Штраф от 10 000 руб. до 5 000 000 руб.</span></div>
     </div>
   </footer>
-  <div id="offcanvas" uk-offcanvas="overlay: true">
-    <div className="uk-offcanvas-bar"><button className="uk-offcanvas-close" type="button" uk-close />
-      <h3>Title</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
-  </div>
-  <div className="uk-flex-top" id="callback" uk-modal>
-    <div className="uk-modal-dialog uk-modal-body uk-margin-auto-vertical"><button className="uk-modal-close-default" type="button" uk-close />
-      <div className="js-step-1">
-        <h4 className="uk-modal-title">Заказать <br /> обратный звонок</h4>
-        <form id="callback-form" action><input type="hidden" name="formname" defaultValue="Заказать обратный звонок" />
-          <div className="uk-margin"><input className="uk-input" type="text" name="name" placeholder="Ваше имя" /></div>
-          <div className="uk-margin"><input className="uk-input" type="text" name="phone" placeholder="Телефон" /></div>
-          <div className="uk-margin"><button className="uk-button" type="submit">Заказать звонок</button></div>
-          <div className="uk-margin">
-            <div className="politic"><span>Нажимая кнопку, вы соглашаетесь с <br /><a href="#privacy-policy" data-uk-toggle>условиями политики конфиденциальности</a></span></div>
-          </div>
-        </form>
-      </div>
-      <div className="js-step-2"><img src="/assets/images/icons/success.png" alt="Спасибо, ваша заявка отправлена" />
-        <h3>Спасибо, ваша <br /> заявка отправлена!</h3>
-        <p>В ближайшее время мы перезвоним Вам, и проконсультируем по возникшим вопросам!</p>
-      </div>
-    </div>
-  </div>
-  <div className="uk-flex-top" id="success" uk-modal>
-    <div className="uk-modal-dialog uk-modal-body uk-margin-auto-vertical"><button className="uk-modal-close-default" type="button" uk-close />
-      <div className="success"><img src="/assets/images/icons/success.png" alt="Спасибо, ваша заявка отправлена" />
-        <h3>Спасибо, ваша <br /> заявка отправлена!</h3>
-        <p>В ближайшее время мы перезвоним Вам, и проконсультируем по возникшим вопросам!</p>
-      </div>
-    </div>
-  </div>
-  <div className="uk-modal-container" id="privacy-policy" data-uk-modal>
-    <div className="uk-modal-dialog uk-modal-body"><button className="uk-modal-close-default" type="button" data-uk-close />
-      <h2 className="uk-modal-title uk-text-left">Политика конфиденциальности</h2>
-      <div data-uk-overflow-auto>
-        <h4>1.Сбор информации</h4>
-        <p>Мы собираем информацию, когда вы регистрируетесь на сайте, заходите на свой аккаунт, совершаете покупку, участвуете в акции и/или выходите из аккаунта. Информация включает ваше имя, адрес электронной почты, номер телефона и данные по кредитной
-          карте.</p>
-        <p>Кроме того, мы автоматически регистрируем ваш компьютер и браузер, включая IP, ПО и аппаратные данные, а также адрес запрашиваемой страницы.</p>
-        <h4>2. Использование информации</h4>
-        <p>Информация, которую мы получаем от вас, может быть использована, чтобы:</p>
-        <ul>
-          <li>Сделать услуги соответствующими вашим индивидуальным запросам</li>
-          <li>Предложить персонализированную рекламу</li>
-          <li>Улучшить наш сайт</li>
-          <li>Улучшить систему поддержки пользователей</li>
-          <li>Связаться с вами по электронной почте</li>
-          <li>Устроить акцию, конкурс или организовать исследование</li>
-        </ul>
-        <h4>3. Защита личных данных при онлайн-продажах</h4>
-        <p>Мы являемся единственным владельцем информации, собранной на данном сайте. Ваши личные данные не будут проданы или каким-либо образом переданы третьим лицам по каким-либо причинам, за исключением необходимых данных для выполнения запроса
-          или транзакции, например, при отправке заказа.</p>
-        <h4>4. Раскрытие информации третьим лицам</h4>
-        <p>Мы не продаем, не обмениваем и не передаем личные данные сторонним компаниям. Это не относится к надежным компаниям, которые помогают нам в работе сайта и ведении бизнеса при условии, что они соглашаются сохранять конфиденциальность информации.</p>
-        <p>Мы готовы делиться информацией, чтобы предотвратить преступления или помочь в их расследовании, если речь идет о подозрении на мошенничество, действиях, физически угрожающих безопасности людей, нарушениях правил использования или в случаях,
-          когда это предусмотрено законом.</p>
-        <p>Неконфиденциальная информация может быть предоставлена другим компаниям в целях маркетинга, рекламы и т.д.</p>
-        <h4>5. Защита информации</h4>
-        <p>Мы используем различные средства безопасности, чтобы гарантировать сохранность ваших личных данных. К вашим услугам самое современное шифрование. VpnMentor также защищает ваши данные в режиме оффлайн. Только те сотрудники, которые работают
-          с конкретным заданием (например, техническая поддержка или проведение оплаты) получают доступ к личным данным. Сервера и компьютеры, на которых записана конфиденциальная информация, находятся в безопасном окружении.</p>
-        <p>Использование файлов «cookie»</p>
-        <p>Наши файлы «cookie» используются для улучшения доступа к сайту и определения повторных посещений. Кроме того, они позволяют отследить наиболее интересующие запросы. Файлы «cookie» не передают никакую конфиденциальную информацию.</p>
-        <h4>6. Отказ от подписки</h4>
-        <p>Мы используем электронную почту, чтобы предоставить вам информацию по вашему заказу, новостям компании, информации по продуктам и т.д. Если вы желаете отказаться от подписки, в каждом письме даны подробные инструкции, как вы можете это
-          сделать.</p>
-        <h4>7. Согласие</h4>
-        <p>Пользуясь услугами нашего сайта, вы автоматически соглашаетесь с нашей политикой конфиденциальности.</p>
-      </div>
-    </div>
-  </div>
 </div>
