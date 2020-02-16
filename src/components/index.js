@@ -1,4 +1,6 @@
 import React from "react"
+import { LazyLoadImage as ImgL } from 'react-lazy-load-image-component';
+
 
 export default () =>   <div>
   <header className="header-page" id="top">
@@ -7,7 +9,7 @@ export default () =>   <div>
         <div className="header-page__box">
           <div className="header-page__logo logo">
             <a className="logo__link" href="/">
-              <div className="logo__icon"><img className="logo__img" src="assets/images/logo_icon.png" alt="IDEAL" /></div>
+              <div className="logo__icon"><ImgL className="logo__img" src="assets/images/logo_icon.png" alt="IDEAL" /></div>
               <div className="logo__text"><span className="logo__company">IDEAL</span><span className="logo__slogan"><span>Производство</span> мебели под заказ</span>
               </div>
             </a>
@@ -50,22 +52,22 @@ export default () =>   <div>
     <div className="uk-container uk-section">
       <div className="uk-grid uk-child-width-1-6@l uk-child-width-1-3@s uk-child-width-1-2" data-uk-grid>
         <div>
-          <div className="advantages__item"><img className="advantages__icon" src="/assets/images/icons/advantages-1.png" alt="Бесплатный замер по Тюмени" /><span className="advantages__text">Бесплатный замер по Тюмени</span></div>
+          <div className="advantages__item"><ImgL className="advantages__icon" src="/assets/images/icons/advantages-1.png" alt="Бесплатный замер по Тюмени" /><span className="advantages__text">Бесплатный замер по Тюмени</span></div>
         </div>
         <div>
-          <div className="advantages__item"><img className="advantages__icon" src="/assets/images/icons/advantages-2.png" alt="От 3 рабочих дней на изготовление" /><span className="advantages__text">От 7 рабочих дней на изготовление</span></div>
+          <div className="advantages__item"><ImgL className="advantages__icon" src="/assets/images/icons/advantages-2.png" alt="От 3 рабочих дней на изготовление" /><span className="advantages__text">От 7 рабочих дней на изготовление</span></div>
         </div>
         <div>
-          <div className="advantages__item"><img className="advantages__icon" src="/assets/images/icons/advantages-3.png" alt="1 день - бесплатная доставка и сборка" /><span className="advantages__text">1 день - бесплатная доставка и сборка</span></div>
+          <div className="advantages__item"><ImgL className="advantages__icon" src="/assets/images/icons/advantages-3.png" alt="1 день - бесплатная доставка и сборка" /><span className="advantages__text">1 день - бесплатная доставка и сборка</span></div>
         </div>
         <div>
-          <div className="advantages__item"><img className="advantages__icon" src="/assets/images/icons/advantages-4.png" alt="Официальная гарантия 10 лет" /><span className="advantages__text">Официальная гарантия 2 года</span></div>
+          <div className="advantages__item"><ImgL className="advantages__icon" src="/assets/images/icons/advantages-4.png" alt="Официальная гарантия 10 лет" /><span className="advantages__text">Официальная гарантия 2 года</span></div>
         </div>
         <div>
-          <div className="advantages__item"><img className="advantages__icon" src="/assets/images/icons/advantages-5.png" alt="Свое производство с опытом 15 лет" /><span className="advantages__text">Свое производство с опытом 10 лет</span></div>
+          <div className="advantages__item"><ImgL className="advantages__icon" src="/assets/images/icons/advantages-5.png" alt="Свое производство с опытом 15 лет" /><span className="advantages__text">Свое производство с опытом 10 лет</span></div>
         </div>
         <div>
-          <div className="advantages__item"><img className="advantages__icon" src="/assets/images/icons/advantages-6.png" alt="рассрочка" /><span className="advantages__text">Гибкая ценовая политика</span></div>
+          <div className="advantages__item"><ImgL className="advantages__icon" src="/assets/images/icons/advantages-6.png" alt="рассрочка" /><span className="advantages__text">Гибкая ценовая политика</span></div>
         </div>
       </div>
     </div>
@@ -98,12 +100,12 @@ export default () =>   <div>
                   <div className="poll__content poll-content">
                     <div className="poll-content__title"><span><b>1</b>/9</span> В каком стиле Вы планируете свою будущую кухню?</div>
                     <div className="poll-content__element uk-grid uk-grid-small uk-child-width-1-3@m uk-child-width-1-2@s  uk-child-width-1-2" data-uk-grid>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Классика" /><img src="/assets/images/poll2/step1-1.jpg" alt />Классика</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Прованс" /><img src="/assets/images/poll2/step1-2.jpg" alt />Современный</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Модерн" /><img src="/assets/images/poll2/step1-3.jpg" alt />Прованс</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Неоклассика" /><img src="/assets/images/poll2/step1-4.jpg" alt />Кантри</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Кантри" /><img src="/assets/images/poll2/step1-5.jpg" alt />Модерн</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Хайтек" /><img src="/assets/images/poll2/step1-6.jpg" alt />Лофт</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Классика" /><ImgL src="/assets/images/poll2/step1-1.jpg" alt />Классика</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Прованс" /><ImgL src="/assets/images/poll2/step1-2.jpg" alt />Современный</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Модерн" /><ImgL src="/assets/images/poll2/step1-3.jpg" alt />Прованс</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Неоклассика" /><ImgL src="/assets/images/poll2/step1-4.jpg" alt />Кантри</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Кантри" /><ImgL src="/assets/images/poll2/step1-5.jpg" alt />Модерн</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step1-2" defaultValue="Хайтек" /><ImgL src="/assets/images/poll2/step1-6.jpg" alt />Лофт</label></div>
                     </div>
                   </div>
                 </div>
@@ -111,12 +113,12 @@ export default () =>   <div>
                   <div className="poll__content poll-content">
                     <div className="poll-content__title"><span><b>2</b>/9</span> Выберите тип кухни</div>
                     <div className="poll-content__element uk-grid uk-grid-small uk-child-width-1-3@m uk-child-width-1-2@s  uk-child-width-1-2" data-uk-grid>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="Линейная" /><img src="/assets/images/poll2/step2-1.jpg" alt />Линейная</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="Г-образная" /><img src="/assets/images/poll2/step2-2.jpg" alt />Г-образная</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="П-образная" /><img src="/assets/images/poll2/step2-3.jpg" alt />П-образная</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="Параллельно" /><img src="/assets/images/poll2/step2-4.jpg" alt />Параллельно</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="G-образная" /><img src="/assets/images/poll2/step2-5.jpg" alt />G-образная</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="С островом" /><img src="/assets/images/poll2/step2-6.jpg" alt />С островом</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="Линейная" /><ImgL src="/assets/images/poll2/step2-1.jpg" alt />Линейная</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="Г-образная" /><ImgL src="/assets/images/poll2/step2-2.jpg" alt />Г-образная</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="П-образная" /><ImgL src="/assets/images/poll2/step2-3.jpg" alt />П-образная</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="Параллельно" /><ImgL src="/assets/images/poll2/step2-4.jpg" alt />Параллельно</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="G-образная" /><ImgL src="/assets/images/poll2/step2-5.jpg" alt />G-образная</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step2-2" defaultValue="С островом" /><ImgL src="/assets/images/poll2/step2-6.jpg" alt />С островом</label></div>
                     </div>
                   </div>
                 </div>
@@ -124,12 +126,12 @@ export default () =>   <div>
                   <div className="poll__content poll-content">
                     <div className="poll-content__title"><span><b>3</b>/9</span> Выберите тип фасадов</div>
                     <div className="poll-content__element uk-grid uk-grid-small uk-child-width-1-3@m uk-child-width-1-2@s  uk-child-width-1-2" data-uk-grid>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Пленка" /><img src="/assets/images/poll2/step3-1.jpg" alt />Пленка</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Пластик" /><img src="/assets/images/poll2/step3-2.jpg" alt />Пластик</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Эмаль" /><img src="/assets/images/poll2/step3-3.jpg" alt />Эмаль</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Акрил" /><img src="/assets/images/poll2/step3-4.jpg" alt />Акрил</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Шпон" /><img src="/assets/images/poll2/step3-5.jpg" alt />Шпон</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Массив" /><img src="/assets/images/poll2/step3-6.jpg" alt />Массив</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Пленка" /><ImgL src="/assets/images/poll2/step3-1.jpg" alt />Пленка</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Пластик" /><ImgL src="/assets/images/poll2/step3-2.jpg" alt />Пластик</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Эмаль" /><ImgL src="/assets/images/poll2/step3-3.jpg" alt />Эмаль</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Акрил" /><ImgL src="/assets/images/poll2/step3-4.jpg" alt />Акрил</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Шпон" /><ImgL src="/assets/images/poll2/step3-5.jpg" alt />Шпон</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step3-2" defaultValue="Массив" /><ImgL src="/assets/images/poll2/step3-6.jpg" alt />Массив</label></div>
                     </div>
                   </div>
                 </div>
@@ -137,10 +139,10 @@ export default () =>   <div>
                   <div className="poll__content poll-content">
                     <div className="poll-content__title"><span><b>4</b>/9</span> Выберите материал столешницы</div>
                     <div className="poll-content__element uk-grid uk-grid-small uk-child-width-1-4@m uk-child-width-1-2@s uk-child-width-1-2" data-uk-grid>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step4-2" defaultValue="Массив дерева" /><img src="/assets/images/poll2/step4-1.jpg" alt />Массив дерева</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step4-2" defaultValue="ЛДСП" /><img src="/assets/images/poll2/step4-2.jpg" alt />ЛДСП</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step4-2" defaultValue="Нержавеющая сталь" /><img src="/assets/images/poll2/step4-3.jpg" alt />Нержавеющая сталь</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step4-2" defaultValue="Натуральный/искуственный камень" /><img src="/assets/images/poll2/step4-4.jpg" alt />Натуральный/искуственный камень</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step4-2" defaultValue="Массив дерева" /><ImgL src="/assets/images/poll2/step4-1.jpg" alt />Массив дерева</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step4-2" defaultValue="ЛДСП" /><ImgL src="/assets/images/poll2/step4-2.jpg" alt />ЛДСП</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step4-2" defaultValue="Нержавеющая сталь" /><ImgL src="/assets/images/poll2/step4-3.jpg" alt />Нержавеющая сталь</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step4-2" defaultValue="Натуральный/искуственный камень" /><ImgL src="/assets/images/poll2/step4-4.jpg" alt />Натуральный/искуственный камень</label></div>
                     </div>
                   </div>
                 </div>
@@ -148,9 +150,9 @@ export default () =>   <div>
                   <div className="poll__content poll-content">
                     <div className="poll-content__title"><span><b>5</b>/9</span> Выберите материал мойки</div>
                     <div className="poll-content__element uk-grid uk-grid-small uk-child-width-1-3@m uk-child-width-1-2@s uk-child-width-1-2@s" data-uk-grid>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step5-2" defaultValue="Нержавеющая сталь" /><img src="/assets/images/poll2/step5-1.jpg" alt />Нержавеющая сталь</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step5-2" defaultValue="Камень" /><img src="/assets/images/poll2/step5-2.jpg" alt />Камень</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step5-2" defaultValue="Композит (искусственный камень)" /><img src="/assets/images/poll2/step5-3.jpg" alt />Композит (искусственный камень)</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step5-2" defaultValue="Нержавеющая сталь" /><ImgL src="/assets/images/poll2/step5-1.jpg" alt />Нержавеющая сталь</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step5-2" defaultValue="Камень" /><ImgL src="/assets/images/poll2/step5-2.jpg" alt />Камень</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step5-2" defaultValue="Композит (искусственный камень)" /><ImgL src="/assets/images/poll2/step5-3.jpg" alt />Композит (искусственный камень)</label></div>
                     </div>
                   </div>
                 </div>
@@ -158,10 +160,10 @@ export default () =>   <div>
                   <div className="poll__content poll-content">
                     <div className="poll-content__title"><span><b>6</b>/9</span> Выберите материал фартука</div>
                     <div className="poll-content__element uk-grid uk-grid-small uk-child-width-1-4@m uk-child-width-1-2@s uk-child-width-1-2" data-uk-grid>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step6-2" defaultValue="Искусственный камень" /><img src="/assets/images/poll2/step6-1.jpg" alt />Искусственный камень</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step6-2" defaultValue="МДФ" /><img src="/assets/images/poll2/step6-2.jpg" alt />МДФ</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step6-2" defaultValue="Керамическая плитка" /><img src="/assets/images/poll2/step6-3.jpg" alt />Керамическая плитка</label></div>
-                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step6-2" defaultValue="Без фартука" /><img src="/assets/images/poll2/step6-4.jpg" alt />Без фартука</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step6-2" defaultValue="Искусственный камень" /><ImgL src="/assets/images/poll2/step6-1.jpg" alt />Искусственный камень</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step6-2" defaultValue="МДФ" /><ImgL src="/assets/images/poll2/step6-2.jpg" alt />МДФ</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step6-2" defaultValue="Керамическая плитка" /><ImgL src="/assets/images/poll2/step6-3.jpg" alt />Керамическая плитка</label></div>
+                      <div><label className="img"><input className="uk-checkbox" type="radio" name="step6-2" defaultValue="Без фартука" /><ImgL src="/assets/images/poll2/step6-4.jpg" alt />Без фартука</label></div>
                     </div>
                   </div>
                 </div>
@@ -222,13 +224,13 @@ export default () =>   <div>
         <div className="uk-position-relative">
           <div className="uk-slider-container uk-light">
             <ul className="uk-slider-items uk-child-width-1-1 uk-text-center uk-child-width-1-3@s uk-child-width-1-4@m uk-child-width-1-5@l">
-              <li><img src="/assets/images/materials-1.jpg" alt /></li>
-              <li><img src="/assets/images/materials-2.jpg" alt /></li>
-              <li><img src="/assets/images/materials-3.jpg" alt /></li>
-              <li><img src="/assets/images/materials-4.jpg" alt /></li>
-              <li><img src="/assets/images/materials-5.jpg" alt /></li>
-              <li><img src="/assets/images/materials-6.jpg" alt /></li>
-              <li><img src="/assets/images/materials-7.jpg" alt /></li>
+              <li><ImgL src="/assets/images/materials-1.jpg" alt /></li>
+              <li><ImgL src="/assets/images/materials-2.jpg" alt /></li>
+              <li><ImgL src="/assets/images/materials-3.jpg" alt /></li>
+              <li><ImgL src="/assets/images/materials-4.jpg" alt /></li>
+              <li><ImgL src="/assets/images/materials-5.jpg" alt /></li>
+              <li><ImgL src="/assets/images/materials-6.jpg" alt /></li>
+              <li><ImgL src="/assets/images/materials-7.jpg" alt /></li>
             </ul>
           </div>
           <div className="uk-visible@l"><a className="uk-position-center-left-out uk-position-small" href="#" uk-slidenav-previous uk-slider-item="previous" /><a className="uk-position-center-right-out uk-position-small" href="#" uk-slidenav-next uk-slider-item="next" /></div>
@@ -254,7 +256,7 @@ export default () =>   <div>
                 <ul className="uk-slider-items uk-child-width-1-1">
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-1.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-1.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -267,7 +269,7 @@ export default () =>   <div>
                   </li>
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-1.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-1.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -280,7 +282,7 @@ export default () =>   <div>
                   </li>
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-1.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-1.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -305,7 +307,7 @@ export default () =>   <div>
                 <ul className="uk-slider-items uk-child-width-1-1">
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-2.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-2.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -318,7 +320,7 @@ export default () =>   <div>
                   </li>
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-2.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-2.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -331,7 +333,7 @@ export default () =>   <div>
                   </li>
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-2.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-2.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -356,7 +358,7 @@ export default () =>   <div>
                 <ul className="uk-slider-items uk-child-width-1-1">
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-3.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-3.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -369,7 +371,7 @@ export default () =>   <div>
                   </li>
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-3.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-3.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -382,7 +384,7 @@ export default () =>   <div>
                   </li>
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-3.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-3.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -407,7 +409,7 @@ export default () =>   <div>
                 <ul className="uk-slider-items uk-child-width-1-1">
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-4.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-4.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -420,7 +422,7 @@ export default () =>   <div>
                   </li>
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-4.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-4.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -433,7 +435,7 @@ export default () =>   <div>
                   </li>
                   <li>
                     <div className="uk-card uk-card-default uk-grid-collapse uk-margin uk-child-width-1-2@s" uk-grid>
-                      <div className="uk-card-media-left uk-cover-container"><img src="/assets/images/other-services-4.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
+                      <div className="uk-card-media-left uk-cover-container"><ImgL src="/assets/images/other-services-4.jpg" alt uk-cover /><canvas width={580} height={420} /></div>
                       <div>
                         <div className="uk-card-body">
                           <h4 className="uk-card-title">Наши дизайнеры с нуля разработают дизайн-проект:</h4>
@@ -458,7 +460,7 @@ export default () =>   <div>
     <div className="uk-container uk-section">
       <h3 className="section-title">Мебель без риска и головной<br /> боли от производителя</h3>
       <div className="about__box uk-margin uk-child-width-1-2@s uk-flex-middle" uk-grid>
-        <div className="uk-flex-last@s"><img src="/assets/images/director.jpg" alt="Директор" /></div>
+        <div className="uk-flex-last@s"><ImgL src="/assets/images/director.jpg" alt="Директор" /></div>
         <div>
           <h3>Почему без риска? Рассказывает<br /> директор ООО «IDEAL»:</h3>
           <p>Вашу кухню соберут опытные мастера<br /> на итальянском оборудовании.</p>
@@ -467,14 +469,14 @@ export default () =>   <div>
         </div>
       </div>
       <div className="about__box uk-margin uk-child-width-1-2@s uk-flex-middle" uk-grid>
-        <div><img src="/assets/images/production.jpg" alt /></div>
+        <div><ImgL src="/assets/images/production.jpg" alt /></div>
         <div>
           <h3>Гарантия качества</h3>
           <p>Чтобы Вы не сомневались в подлинности и качестве<br /> моих кухонь, я лично принимаю объекты. Я лично<br /> отвечаю за качество и даю Вам гарантию 2 года<br /> на всю нашу продукцию!</p>
           <div className="director-info">
             <div className="director-info__left">
               <p>Сергей Семёнов<small>директор компании «IDEAL»</small></p>{/*<a href="mailto:centrdiz@list.ru">centrdiz@list.ru</a></div>*/}
-              <div className="director-info__right"><img src="/assets/images/derector-signature.png" alt="Подпись директора" /></div>
+              <div className="director-info__right"><ImgL src="/assets/images/derector-signature.png" alt="Подпись директора" /></div>
             </div>
           </div>
         </div>
@@ -548,7 +550,7 @@ export default () =>   <div>
       <div className="footer-page__box">
         <div className="footer-page__logo logo">
           <a className="logo__link" href="/">
-            <div className="logo__icon"><img className="logo__img" src="assets/images/logo_icon.png" alt="IDEAL" /></div>
+            <div className="logo__icon"><ImgL className="logo__img" src="assets/images/logo_icon.png" alt="IDEAL" /></div>
             <div className="logo__text"><span className="logo__company">IDEAL</span><span className="logo__slogan"><span>Производство</span> мебели под заказ</span>
             </div>
           </a>
@@ -561,7 +563,7 @@ export default () =>   <div>
             <li><a href="tel:+7+79292694888">+7 (929) 269-48-88</a></li>
           </ul>
         </div>
-        <div className="footer-page__developer"><span>Разработано</span><img src="/assets/images/logo-develorep.png" alt="Бизнес мечта" /></div>
+        <div className="footer-page__developer"><span>Разработано</span><ImgL src="/assets/images/logo-develorep.png" alt="Бизнес мечта" /></div>
       </div>
       <div className="footer-page__copy"><span>Сайт защищен от копирования законом об авторском праве. Штраф от 10 000 руб. до 5 000 000 руб.</span></div>
     </div>
