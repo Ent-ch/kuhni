@@ -1,3 +1,8 @@
-import React from "react"
+import React from 'react';
+import Front from '../components';
 
-export default () => <div>Hello world!</div>
+import "uikit/dist/css/uikit-core.css";
+import '../css/main.css';
+
+
+export default () => <Front />

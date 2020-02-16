@@ -5953,6 +5953,7 @@ fsevents@~2.1.1:
     prettier: ^1.19.1
     react: ^16.12.0
     react-dom: ^16.12.0
+    uikit: ^3.3.1
   languageName: unknown
   linkType: soft
 
@@ -12916,6 +12917,13 @@ fsevents@~2.1.1:
   version: 0.7.21
   resolution: "ua-parser-js@npm:0.7.21"
   checksum: b95c07f425eb66c14b6010fac559cce58a737e0a889f164957c9d6f4b219f18230504ac9582d40e4dca9dd5156c9183b1e72c99a1734e25aea1f1e6a22540d84
+  languageName: node
+  linkType: hard
+
+"uikit@npm:^3.3.1":
+  version: 3.3.1
+  resolution: "uikit@npm:3.3.1"
+  checksum: 4517e59c61da5f7111b603c374edb7c8b241a1e8183d1e18f0a42a8167de111cce20ad790f1961cdacb30b83b3189674167426c308afc58d56e91dcaa0f7d1ac
   languageName: node
   linkType: hard
 
