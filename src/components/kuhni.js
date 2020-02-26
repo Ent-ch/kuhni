@@ -40,12 +40,10 @@ export default () => {
     .then(response => {
       setHtmlList(response.data);
       setTimeout(() => {
-        console.log('Показать больше шкафов');
-        // Показать больше шкафов
         initProduct();
-      }, 5000);
+      }, 500);
     });
-  }, 1000);
+  }, 5000);
 
   return (
     <div className="uk-container uk-section">
