@@ -1,6 +1,7 @@
 import React from "react"
 import { LazyLoadImage as ImgL } from 'react-lazy-load-image-component';
 
+import Catalog from './kuhni';
 
 export default () =>   <div>
   <header className="header-page" id="top">
@@ -73,9 +74,7 @@ export default () =>   <div>
     </div>
   </section>
   <section className="catalog" id="catalog">
-    <div className="uk-container uk-section">
-      <h3 className="section-title">Кухни на любой вкус:<span>1 245 моделей в каталоге</span></h3>
-    </div>
+    <Catalog />
   </section>
   <section className="poll" id="poll">
     <div className="uk-container uk-section">

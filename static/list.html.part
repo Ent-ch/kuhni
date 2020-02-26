@@ -1,0 +1,877 @@
+<ul class="js-filter filter__content uk-grid-small uk-child-width-1-4@l uk-child-width-1-3@s uk-child-width-1-2" data-uk-grid>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/001.jpg" alt="Модель 001" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 001</h3>
+                <p>от 22 000 руб.</p>
+            </div>
+        </div>
+    </li>
+
+    
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/008.jpg" alt="Модель 008" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 008</h3>
+                <p>от 20 200 руб.</p>
+            </div>
+        </div>
+    </li>
+    
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/012.jpg" alt="Модель 012" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 012</h3>
+                <p>от 30 700 руб.</p>
+            </div>
+        </div>
+    </li>
+    
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/020.jpg" alt="Модель 020" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 020</h3>
+                <p>от 18 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/024.jpg" alt="Модель 024" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 024</h3>
+                <p>от 21 700 руб.</p>
+            </div>
+        </div>
+    
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/026.jpg" alt="Модель 026" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 026</h3>
+                <p>от 17 100 руб.</p>
+            </div>
+        </div>
+    </li>
+    
+    
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Комфорт">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/029.jpg" alt="Модель 029" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 029</h3>
+                <p>от 40 400 руб.</p>
+            </div>
+        </div>
+    </li>
+    
+    <li data-filter-1="Угловая" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/031.jpg" alt="Модель 031" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 031</h3>
+                <p>от 28 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Комфорт">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/033.jpg" alt="Модель 033" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 033</h3>
+                <p>от 37 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Прованс" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/034.jpg" alt="Модель 034" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 034</h3>
+                <p>от 21 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/038.jpg" alt="Модель 038" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 038</h3>
+                <p>от 21 800 руб.</p>
+            </div>
+        </div>
+    </li>
+    
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/040.jpg" alt="Модель 040" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 040</h3>
+                <p>от 21 100 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/041.jpg" alt="Модель 041" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 041</h3>
+                <p>от 17 400 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/042.jpg" alt="Модель 042" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 042</h3>
+                <p>от 21 100 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/043.jpg" alt="Модель 043" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 043</h3>
+                <p>от 18 200 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/044.jpg" alt="Модель 044" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 044</h3>
+                <p>от 15 300 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Комфорт">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/045.jpg" alt="Модель 045" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 045</h3>
+                <p>от 45 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/046.jpg" alt="Модель 046" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 046</h3>
+                <p>от 16 200 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/047.jpg" alt="Модель 047" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 047</h3>
+                <p>от 16 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/048.jpg" alt="Модель 048" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 048</h3>
+                <p>от 21 800 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/049.jpg" alt="Модель 049" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 049</h3>
+                <p>от 28 900 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/050.jpg" alt="Модель 050" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 050</h3>
+                <p>от 21 400 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="Пластик" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/051.jpg" alt="Модель 051" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 051</h3>
+                <p>от 20 500 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/052.jpg" alt="Модель 052" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 052</h3>
+                <p>от 15 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/053.jpg" alt="Модель 053" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 053</h3>
+                <p>от 23 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/054.jpg" alt="Модель 054" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 054</h3>
+                <p>от 34 100 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/055.jpg" alt="Модель 055" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 055</h3>
+                <p>от 16 200 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/056.jpg" alt="Модель 056" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 056</h3>
+                <p>от 17 100 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/057.jpg" alt="Модель 057" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 057</h3>
+                <p>от 21 800 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Комфорт">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/058.jpg" alt="Модель 058" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 058</h3>
+                <p>от 35 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/059.jpg" alt="Модель 059" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 059</h3>
+                <p>от 23 300 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/060.jpg" alt="Модель 060" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 060</h3>
+                <p>от 16 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/061.jpg" alt="Модель 061" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 061</h3>
+                <p>от 28 900 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/062.jpg" alt="Модель 062" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 062</h3>
+                <p>от 17 600 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/063.jpg" alt="Модель 063" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 063</h3>
+                <p>от 21 700 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/064.jpg" alt="Модель 064" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 064</h3>
+                <p>от 16 600 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/065.jpg" alt="Модель 065" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 065</h3>
+                <p>от 20 500 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/066.jpg" alt="Модель 066" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 066</h3>
+                <p>от 17 100 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/067.jpg" alt="Модель 067" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 067</h3>
+                <p>от 21 800 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/068.jpg" alt="Модель 068" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 068</h3>
+                <p>от 16 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/069.jpg" alt="Модель 069" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 069</h3>
+                <p>от 19 700 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/070.jpg" alt="Модель 070" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 070</h3>
+                <p>от 18 200 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Прованс" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/071.jpg" alt="Модель 071" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 071</h3>
+                <p>от 15 700 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/072.jpg" alt="Модель 072" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 072</h3>
+                <p>от 19 800 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/073.jpg" alt="Модель 073" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 073</h3>
+                <p>от 17 400 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/074.jpg" alt="Модель 074" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 074</h3>
+                <p>от 17 700 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/075.jpg" alt="Модель 075" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 075</h3>
+                <p>от 20 500 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/076.jpg" alt="Модель 076" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 076</h3>
+                <p>от 18 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/077.jpg" alt="Модель 077" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 077</h3>
+                <p>от 30 900 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/078.jpg" alt="Модель 078" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 078</h3>
+                <p>от 20 500 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/079.jpg" alt="Модель 079" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 079</h3>
+                <p>от 17 100 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/080.jpg" alt="Модель 080" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 080</h3>
+                <p>от 16 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Классика" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/081.jpg" alt="Модель 081" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 081</h3>
+                <p>от 17 800 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/082.jpg" alt="Модель 082" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 082</h3>
+                <p>от 17 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Модерн" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/083.jpg" alt="Модель 083" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 083</h3>
+                <p>от 16 800 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Модерн" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/084.jpg" alt="Модель 084" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 084</h3>
+                <p>от 18 700 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/085.jpg" alt="Модель 085" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 085</h3>
+                <p>от 18 700 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Комфорт">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/086.jpg" alt="Модель 086" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 086</h3>
+                <p>от 35 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/087.jpg" alt="Модель 087" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 087</h3>
+                <p>от 20 500 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="ДСП" data-filter-3="Модерн" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/088.jpg" alt="Модель 088" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 088</h3>
+                <p>от 15 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Комфорт">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/089.jpg" alt="Модель 089" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 089</h3>
+                <p>от 41 600 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/090.jpg" alt="Модель 090" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 090</h3>
+                <p>от 17 400 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Модерн" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/091.jpg" alt="Модель 091" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 091</h3>
+                <p>от 28 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="МДФ" data-filter-3="Кантри" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/092.jpg" alt="Модель 092" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 092</h3>
+                <p>от 34 200 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="МДФ" data-filter-3="Кантри" data-filter-4="Премиум">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/093.jpg" alt="Модель 093" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 093</h3>
+                <p>от 65 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="П-образная" data-filter-2="МДФ" data-filter-3="Прованс" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/094.jpg" alt="Модель 094" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 094</h3>
+                <p>от 23 200 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Островная" data-filter-2="МДФ" data-filter-3="Современный" data-filter-4="Премиум">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/095.jpg" alt="Модель 095" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 095</h3>
+                <p>от 100 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="Акрил" data-filter-3="Современный" data-filter-4="Комфорт">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/096.jpg" alt="Модель 096" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 096</h3>
+                <p>от 38 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="Акрил" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/097.jpg" alt="Модель 097" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 097</h3>
+                <p>от 29 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="Пластик" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/098.jpg" alt="Модель 098" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 098</h3>
+                <p>от 20 700 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Угловая" data-filter-2="Пластик" data-filter-3="Современный" data-filter-4="Комфорт">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/099.jpg" alt="Модель 099" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 099</h3>
+                <p>от 35 000 руб.</p>
+            </div>
+        </div>
+    </li>
+    <li data-filter-1="Линейная" data-filter-2="Пластик" data-filter-3="Современный" data-filter-4="Бюджетные">
+        <div class="filter-item uk-card uk-card-default uk-transition-toggle uk-visible-toggle" tabindex="0">
+            <div class="uk-card-media-top uk-cover-container"><img src="/assets/images/products/100.jpg" alt="Модель 100" uk-cover><canvas width="580" height="420"></canvas>
+                <div class="uk-overlay-primary uk-position-cover uk-hidden-hover"></div>
+                <div class="uk-position-center uk-hidden-hover"><a class="uk-button uk-transition-slide-bottom-medium" href="#total-price" data-uk-scroll>Рассчитать</a></div>
+            </div>
+            <div class="uk-card-body">
+                <h3 class="uk-card-title">Модель 100</h3>
+                <p>от 28 000 руб.</p>
+            </div>
+        </div>
+    </li>
+</ul>
