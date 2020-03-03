@@ -508,9 +508,7 @@ a:active {
   display: block;
   position: relative;
   padding: 20px 0;
-  background-image: url(../images/bg__hero.jpg);
-  background-size: cover;
-  background-position: center;
+  z-index: 99;
 }
 
 .header-page__scroll.uk-active {
@@ -770,15 +768,11 @@ a:active {
   height: 100%;
   top: 0;
   left: 0;
-  background-image: url(../images/img_hero.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
   margin-left: 25px;
 }
 
 .hero__content {
-  padding: 70px 0;
+  padding: 70px 20px;
   position: relative;
 }
 
@@ -794,13 +788,26 @@ a:active {
   font-weight: 400;
 }
 
-.hero__img--2 {
-  display: block;
+.header-call-wrapper {
+  width: 100%;
   position: absolute;
-  width: calc(50% - 50px);
-  height: 100%;
   top: 0;
-  left: 0;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  background-image: url(../images/bg__hero.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.header-call {
+  display: flex;
+  flex-direction: row;
+}
+
+.hero__img--2 {
+  display: flex;
+  width: calc(50% - 50px);
   background-image: url(../images/img_hero3.jpg);
   background-repeat: no-repeat;
   background-position: center;
@@ -1025,6 +1032,7 @@ a:active {
 .advantages {
   display: block;
   position: relative;
+  margin-top: 580px;
 }
 
 .advantages__item {
@@ -1844,6 +1852,10 @@ a:active {
     font-size: 36px;
   }
 
+  .advantages {
+    margin-top: 470px;
+  }
+
   .section-title small {
     font-size: 18px;
   }
@@ -1899,6 +1911,10 @@ a:active {
   .uk-input {
     height: 42px;
     line-height: 40px;
+  }
+
+  .advantages {
+    margin-top: 430px;
   }
 
   .uk-button {
