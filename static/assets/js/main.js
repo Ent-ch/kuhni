@@ -1,16 +1,19 @@
 
 jQuery(document).ready(function ($) {
-
-  // Показать больше шкафов
-  $.get('/list.html.part').then(function (data) {
-    console.log(data);
-  });
-
   function initProduct() {
     $('.filter__content > li').hide();
     $('.filter__content > li').slice(0, 8).show();
   }
-  initProduct();
+
+  // Показать больше шкафов
+  $.get('/list.html.part').then(function (data) {
+    $('#more-products-button').before(data);
+    setTimeout(() => {
+        initProduct();
+      
+    }, 300);
+  });
+
 
   $('.more-products > span').on('click', function (e) {
     e.preventDefault();
