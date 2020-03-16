@@ -1,26 +1,33 @@
 
 jQuery(document).ready(function ($) {
+  var loaded = false;
+
   function initProduct() {
     $('.filter__content > li').hide();
     $('.filter__content > li').slice(0, 8).show();
   }
 
   // Показать больше шкафов
-  // setTimeout(() => {
-  //   $.get('/list.html.part').then(function(data) {
-  //     $('#more-products-button').before(data);
-  //     setTimeout(() => {
-  //         initProduct();
+  $(document).scroll(
+    () => {
+      if (loaded) {
+        return;
+      }
+      $.get('/list.html.part').then(function(data) {
+        $('#more-products-button').before(data);
+        setTimeout(() => {
+            initProduct();
+          
+        }, 300);
+      });
         
-  //     }, 300);
-  //   });
-      
-  //   $.get('/examples.html.part').then(function(data) {
-  //     $('#examples-filter-box').after(data);
-  //   });
-
-
-  // }, 5000);
+      $.get('/examples.html.part').then(function(data) {
+        $('#examples-filter-box').after(data);
+      });
+  
+      loaded = true;
+    }
+  );
 
   $('.more-products > span').on('click', function (e) {
     e.preventDefault();
