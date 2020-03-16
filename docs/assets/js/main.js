@@ -6,14 +6,21 @@ jQuery(document).ready(function ($) {
   }
 
   // Показать больше шкафов
-  $.get('/list.html.part').then(function (data) {
-    $('#more-products-button').before(data);
-    setTimeout(() => {
-        initProduct();
+  setTimeout(() => {
+    $.get('/list.html.part').then(function(data) {
+      $('#more-products-button').before(data);
+      setTimeout(() => {
+          initProduct();
+        
+      }, 300);
+    });
       
-    }, 300);
-  });
+    $.get('/examples.html.part').then(function(data) {
+      $('#examples-filter-box').after(data);
+    });
 
+
+  }, 5000);
 
   $('.more-products > span').on('click', function (e) {
     e.preventDefault();

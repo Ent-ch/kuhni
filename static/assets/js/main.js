@@ -7,7 +7,7 @@ jQuery(document).ready(function ($) {
 
   // Показать больше шкафов
   setTimeout(() => {
-    $.get('/list.html.part').then(function (data) {
+    $.get('/list.html.part').then(function(data) {
       $('#more-products-button').before(data);
       setTimeout(() => {
           initProduct();
@@ -15,6 +15,11 @@ jQuery(document).ready(function ($) {
       }, 300);
     });
       
+    $.get('/examples.html.part').then(function(data) {
+      $('#examples-filter-box').after(data);
+    });
+
+
   }, 5000);
 
   $('.more-products > span').on('click', function (e) {
